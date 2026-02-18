@@ -1,12 +1,12 @@
 # 🚀 Bootcamp Full Stack – Fundamentos ao Deploy
 
-##### 🧠 Filosofia do Bootcamp
+###### 🧠 Filosofia do Bootcamp
 
 O foco não é apenas aprender tecnologias.
 É desenvolver **mentalidade arquitetural**, domínio de fundamentos e capacidade de construir aplicações completas — do terminal ao deploy.
 
----
-# 🎯 Objetivo do Bootcamp
+
+###### 🎯 Objetivo do Bootcamp
 
 Formar desenvolvedores capazes de:
 
@@ -18,10 +18,10 @@ Formar desenvolvedores capazes de:
 * Modelar bancos de dados relacionais (PostgreSQL) e não relacionais (MongoDB)
 * Realizar deploy
 
----
-# 🧱 Estrutura do Bootcamp
 
-O curso é dividido em três grandes pilares:
+###### 🧱 Estrutura do Bootcamp
+
+O curso é dividido em três grandes modulos:
 
 1. **Fundamentos**
 2. **Front-end**
@@ -30,9 +30,11 @@ O curso é dividido em três grandes pilares:
 Cada bloco consolida conhecimento teórico e prático por meio de exercícios e **projetos focados em habilidades específicas**.
 
 ---
-# 📚 Fundamentos do Desenvolvimento Web
+# 📚 Modulos e Conteúdo Previsto
 
-## 🐧 Unix & Shell
+### 🏛️ Fundamentos do Desenvolvimento Web
+
+###### 🐧 Unix & Shell
 
 * Terminal
 * Sistema de arquivos
@@ -44,16 +46,16 @@ Cada bloco consolida conhecimento teórico e prático por meio de exercícios e 
 **Projeto – Skills exercitadas:**
 Manipulação de arquivos, automação com shell script e organização de ambiente.
 
----
-## 🌎 Como a Web funciona (Modelo Mental)
+
+###### 🌎 Como a Web funciona (Modelo Mental)
 * Internet
 * HTTP
 * Cliente vs Servidor
 * Requisição e Resposta
 * JSON
   
----
-## 🎨 HTML & CSS
+
+###### 🎨 HTML & CSS
 
 * Estrutura de páginas
 * HTML semântico
@@ -66,8 +68,8 @@ Manipulação de arquivos, automação com shell script e organização de ambie
 **Projeto – Skills exercitadas:**
 Semântica avançada, layout com Flexbox, responsividade e organização de CSS.
 
----
-## 🔧 Git & GitHub
+
+###### 🔧 Git & GitHub
 
 * Versionamento
 * Branches
@@ -79,8 +81,8 @@ Semântica avançada, layout com Flexbox, responsividade e organização de CSS.
 **Projeto – Skills exercitadas:**
 Fluxo Git completo, resolução de conflitos e colaboração em equipe.
 
----
-## 🟨 JavaScript (Fundamentos + ES6)
+
+###### 🟨 JavaScript (Fundamentos + ES6)
 
 * Lógica e algoritmos
 * Variáveis e arrays
@@ -92,8 +94,8 @@ Fluxo Git completo, resolução de conflitos e colaboração em equipe.
 **Projeto – Skills exercitadas:**
 Manipulação de dados, funções puras e organização de lógica.
 
----
-## 🖱️ DOM, Eventos e Web Storage
+
+###### 🖱️ DOM, Eventos e Web Storage
 
 * Seletores DOM
 * Manipulação de elementos
@@ -103,8 +105,8 @@ Manipulação de dados, funções puras e organização de lógica.
 **Projetos – Skills exercitadas:**
 Interatividade dinâmica, manipulação de estado no navegador e persistência local.
 
----
-## 🔁 Higher Order Functions
+
+###### 🔁 Higher Order Functions
 
 * map
 * filter
@@ -117,8 +119,8 @@ Interatividade dinâmica, manipulação de estado no navegador e persistência l
 **Projeto – Skills exercitadas:**
 Programação funcional aplicada e transformação de dados.
 
----
-## ⏱️ JavaScript Assíncrono
+
+###### ⏱️ JavaScript Assíncrono
 
 * Callbacks
 * Promises
@@ -128,10 +130,10 @@ Programação funcional aplicada e transformação de dados.
 **Projeto – Skills exercitadas:**
 Consumo de APIs, controle de fluxo assíncrono e tratamento de erros.
 
----
-# ⚛️ Desenvolvimento Front-end
 
-## ⚛️ React – Fundamentos
+### ⚛️ Desenvolvimento Front-end
+
+###### ⚛️ React – Fundamentos
 
 * JSX
 * Estrutura de aplicação
@@ -142,8 +144,8 @@ Consumo de APIs, controle de fluxo assíncrono e tratamento de erros.
 **Projeto – Skills exercitadas:**
 Componentização, renderização dinâmica e arquitetura básica com React.
 
----
-## 🧠 Estado e Formulários
+
+###### 🧠 Estado e Formulários
 
 * useState
 * Eventos
@@ -152,8 +154,8 @@ Componentização, renderização dinâmica e arquitetura básica com React.
 **Projeto – Skills exercitadas:**
 Gerenciamento de estado local e controle de inputs.
 
----
-## 🧬 React Avançado
+
+###### 🧬 React Avançado
 
 * Ciclo de vida
 * React Router
@@ -163,8 +165,8 @@ Gerenciamento de estado local e controle de inputs.
 **Projeto – Skills exercitadas:**
 Navegação SPA, operações CRUD e arquitetura modular.
 
----
-## 🌍 Context API & Hooks
+
+###### 🌍 Context API & Hooks
 
 * useContext
 * useEffect
@@ -173,8 +175,8 @@ Navegação SPA, operações CRUD e arquitetura modular.
 **Projeto – Skills exercitadas:**
 Gerenciamento de estado global sem Redux e controle de efeitos colaterais.
 
----
-## 🧰 Redux
+
+###### 🧰 Redux
 
 * Store
 * Actions
@@ -185,22 +187,22 @@ Gerenciamento de estado global sem Redux e controle de efeitos colaterais.
 **Projeto – Skills exercitadas:**
 Gerenciamento de estado escalável e arquitetura previsível.
 
----
-## 🎮 Projeto React em Grupo
+
+###### 🎮 Projeto React em Grupo
 
 **Skills exercitadas:**
 Trabalho em equipe, arquitetura colaborativa e divisão de responsabilidades.
 
----
-## 🍳 Projeto Final Front-end
+
+###### 🍳 Projeto Final Front-end
 
 **Skills exercitadas:**
 SPA completa, integração com API e arquitetura escalável.
 
----
-# 🛠️ Desenvolvimento Back-end
 
-## 🚀 Node.js & Express
+### 🛠️ Desenvolvimento Back-end
+
+###### 🚀 Node.js & Express
 
 * Servidor HTTP
 * Fluxo assíncrono
@@ -208,8 +210,8 @@ SPA completa, integração com API e arquitetura escalável.
 **Projeto – Skills exercitadas:**
 Criação de APIs REST e arquitetura em camadas.
 
----
-## 🧱 System Design, API REST e Arquitetura
+
+###### 🧱 System Design, API REST e Arquitetura
 
 * SOLID
 * DDD
@@ -225,8 +227,8 @@ Criação de APIs REST e arquitetura em camadas.
 **Projeto – Skills exercitadas:**
 Separação de responsabilidades e aplicação de arquitetura limpa.
 
----
-## 🧠 Modelagem de Banco de Dados
+
+###### 🧠 Modelagem de Banco de Dados
 
 * Formas Normais
 * Relacionamentos
@@ -235,8 +237,8 @@ Separação de responsabilidades e aplicação de arquitetura limpa.
 **Projeto – Skills exercitadas:**
 Modelagem correta e escalável de banco de dados.
 
----
-## 🗄️ SQL
+
+###### 🗄️ SQL
 
 * Modelagem relacional
 * Queries
@@ -246,8 +248,8 @@ Modelagem correta e escalável de banco de dados.
 **Projeto – Skills exercitadas:**
 Consultas complexas e manipulação de dados estruturados.
 
----
-## 🔗 JOINs, Subqueries e Normalização
+
+###### 🔗 JOINs, Subqueries e Normalização
 
 * Funções SQL
 * JOIN
@@ -257,8 +259,8 @@ Consultas complexas e manipulação de dados estruturados.
 **Projeto – Skills exercitadas:**
 Consultas avançadas e otimização de banco.
 
----
-## 🔐 Autenticação e Segurança de Dados
+
+###### 🔐 Autenticação e Segurança de Dados
 
 * ORM (Sequelize) e Associations
 * Middlewares
@@ -268,8 +270,8 @@ Consultas avançadas e otimização de banco.
 **Projeto – Skills exercitadas:**
 Autenticação segura e proteção de rotas.
 
----
-## 🍃 MongoDB
+
+###### 🍃 MongoDB
 
 * NoSQL
 * Filter operators
@@ -279,8 +281,8 @@ Autenticação segura e proteção de rotas.
 **Projetos – Skills exercitadas:**
 Manipulação de documentos e pipelines de agregação.
 
----
-## ☁️ Deploy
+
+###### ☁️ Deploy
 
 * Infraestrutura
 * Ambientes
@@ -289,20 +291,18 @@ Manipulação de documentos e pipelines de agregação.
 **Projeto – Skills exercitadas:**
 Deploy de aplicações front-end e back-end e configuração de ambiente.
 
----
-## 👥 Projeto em Grupo (Back-end)
+
+###### 👥 Projeto em Grupo (Back-end)
 
 **Projeto – Skills exercitadas:**
 API completa com autenticação, banco de dados, arquitetura e deploy.
 Arquitetura robusta e domínio bem definido.
 
----
-# 📘 Fundamentos do Electron
+
+###### 📘 Fundamentos do Electron - modulo especial
 
 * O que é Electron?
-
   * Exemplos famosos:
-
     1. Visual Studio Code
     2. Discord
     3. Slack
@@ -316,9 +316,10 @@ Arquitetura robusta e domínio bem definido.
 **Projeto – Skills exercitadas:**
 Criação de aplicação desktop com arquitetura baseada em processos, comunicação via IPC e empacotamento da aplicação.
 
----
-## 🚚 Projeto Final
+
+### 🚚 Projeto Final
 
 **Skills exercitadas:**
 Aplicação Full Stack (Web, Desktop ou Híbrida) com integração completa entre front-end, back-end e persistência de dados.
+
 
