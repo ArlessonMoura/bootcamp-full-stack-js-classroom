@@ -6,17 +6,6 @@ O foco não é apenas aprender tecnologias.
 É desenvolver **mentalidade arquitetural**, domínio de fundamentos e capacidade de construir aplicações completas — do terminal ao deploy.
 
 ---
-# 🏆 Ao Final do Bootcamp, o Aluno Será Capaz de:
-
-✔ Construir aplicações completas
-✔ Desenvolver APIs REST
-✔ Modelar bancos relacionais e NoSQL
-✔ Trabalhar com estado global no Front-end
-✔ Aplicar arquitetura em camadas
-✔ Implementar autenticação
-✔ Realizar deploy
-
----
 # 🎯 Objetivo do Bootcamp
 
 Formar desenvolvedores capazes de:
@@ -25,6 +14,7 @@ Formar desenvolvedores capazes de:
 * Aplicar boas práticas de código
 * Construir aplicações Front-end modernas (React Hooks, Context API e Redux)
 * Desenvolver APIs REST
+* Implementar autenticação e boas praticas da segurança da informação.
 * Modelar bancos de dados relacionais (PostgreSQL) e não relacionais (MongoDB)
 * Realizar deploy
 
@@ -92,9 +82,9 @@ Fluxo Git completo, resolução de conflitos e colaboração em equipe.
 ---
 ## 🟨 JavaScript (Fundamentos + ES6)
 
-* Variáveis e escopo
-* Arrays e loops
 * Lógica e algoritmos
+* Variáveis e arrays
+* escopo e laços de repetição
 * Objetos e funções
 * ES6 (let, const, arrow functions)
 * Destructuring e spread
@@ -143,10 +133,11 @@ Consumo de APIs, controle de fluxo assíncrono e tratamento de erros.
 
 ## ⚛️ React – Fundamentos
 
-* Componentes
 * JSX
-* Props
 * Estrutura de aplicação
+* Componentes
+* Props
+
 
 **Projeto – Skills exercitadas:**
 Componentização, renderização dinâmica e arquitetura básica com React.
@@ -212,7 +203,6 @@ SPA completa, integração com API e arquitetura escalável.
 ## 🚀 Node.js & Express
 
 * Servidor HTTP
-* Middlewares
 * Fluxo assíncrono
 
 **Projeto – Skills exercitadas:**
@@ -229,6 +219,7 @@ Criação de APIs REST e arquitetura em camadas.
   1. Model
   2. Service
   3. Controller
+* Middlewares
 * RESTful design
 
 **Projeto – Skills exercitadas:**
@@ -330,3 +321,4 @@ Criação de aplicação desktop com arquitetura baseada em processos, comunica�
 
 **Skills exercitadas:**
 Aplicação Full Stack (Web, Desktop ou Híbrida) com integração completa entre front-end, back-end e persistência de dados.
+
