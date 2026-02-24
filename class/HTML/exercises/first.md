@@ -131,7 +131,7 @@ Criar um formulário completo usando:
 
 * Texto de encerramento
 * Um `<br>`
-* Um link externo (ex: “Organização Internacional de Resgate”)
+* Um link externo (ex: “Organização Internacional de Resgate” - BÔNUS)
 
 ---
 
@@ -170,3 +170,4 @@ Ao abrir o `resgate.html` no navegador, deve parecer:
 * Organizada
 * Semântica
 * Legível sem nenhum estilo
+
