@@ -153,11 +153,10 @@ Criar um formulário completo usando:
 
 * Usar corretamente **IDs para navegação** (quem se adiantar a lógica de ancoras html com links <a></a>)
 * Mantiver hierarquia correta de `<h1>` a `<h3>`
-* Adicionar pelo menos UM dos itens:
-<audio>
-<video>
-Com uso da tag:
-<source>
+* 🎥 Mídia Adicionar **pelo menos UM** dos itens:
+    * `<audio>`
+    * `<video>`
+> Com uso da tag: `<source>`
 * Criar uma história envolvente 😄
 
 ---
@@ -171,4 +170,3 @@ Ao abrir o `resgate.html` no navegador, deve parecer:
 * Organizada
 * Semântica
 * Legível sem nenhum estilo
-
